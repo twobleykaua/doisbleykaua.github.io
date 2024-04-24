@@ -1,5 +1,0 @@
-INSERT INTO item_do_pedido (id_item, quantidade, preco)
-VALUES
-('9', '60', '100.00'),
-('8', '50', '99.00'),
-('7', '40', '88.00');

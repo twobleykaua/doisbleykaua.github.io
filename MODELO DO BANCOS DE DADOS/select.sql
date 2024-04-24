@@ -1,1 +1,0 @@
-SELECT valor FROM pedido WHERE valor >= 100 and valor <= 200;

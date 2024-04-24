@@ -1,1 +1,0 @@
-SELECT * FROM cliente INNER JOIN livro INNER JOIN pedido;
